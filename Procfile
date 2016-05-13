@@ -1,0 +1,1 @@
+worker: python haiku_helper.py
