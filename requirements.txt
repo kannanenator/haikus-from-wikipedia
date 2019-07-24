@@ -1,4 +1,4 @@
 tweepy==3.5.0
 bs4
 nltk==3.2.1
-requests==2.8.1
+requests==2.20.0
